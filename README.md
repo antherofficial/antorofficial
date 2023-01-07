@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Antor Chakraborty</h1>
-<h3 align="center">A passionate software developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antorofficial20&label=Profile%20views&color=0e75b6&style=flat" alt="antorofficial20" /> </p>
-
-- 🔭 I’m currently working at SmartNet **As a Network Engineer**
 
 - 🌱 I’m currently learning Android development **Java,Kotlin,Flutter**
 
 - 👨‍💻 All of my projects are available at [https://antorofficial.github.io/](https://antorofficial.github.io/)
 
-- 💬 Ask me about **java,kotlin,c#**
+- 💬 Ask me about **java,C++,c#**
 
-- 📫 How to reach me **antorchakraborty20@gmail.com**
+- 📫 How to reach me **antorofficial20@gmail.com**
 
 - 📄 Know about my experiences [https://antorofficial.github.io/](https://antorofficial.github.io/)
 
